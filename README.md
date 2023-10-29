@@ -3,14 +3,22 @@
 This is a fully playable chess game that uses a text-based interface like below. (Everything is aligned on my computer but it might not be for yours)
 
 8 |♜|♞|♝|♛|♚|♝|♞|♜|
+
 7 |♟|♟|♟|♟|♟|♟|♟|♟|
+
 6 |  |  |  |  |  |  |  |  |
+
 5 |  |  |  |  |  |  |  |  |
+
 4 |  |  |  |  |  |  |  |  |
+
 3 |  |  |  |  |  |  |  |  |
+
 2 |♙|♙|♙|♙|♙|♙|♙|♙|
+
 1 |♖|♘|♗|♕|♔|♗|♘|♖|
-   a  b  c  d  e f  g  h
+
+   a  b  c  d  e f  g  h
 
 HOW TO USE
 1. Download and place all files in the same place
